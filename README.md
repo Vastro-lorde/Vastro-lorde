@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Seun Daniel Omatsola</h1>
+
+🤔🧐 I am currently working on an astrology based personality
+Reader, highschool/secondary school website API and Darth 
+Data visualiser website.
+
+🤓📝 I am currently learning React JavaScript.
+
+You can reach me on 
+www.linkedin.com/in/seun-daniel-omatsola-429a69166
+LinkedIn
+
+🌐📲 omatsolaseund@gmail.com via Gmail.
+
+I am Pisces ♓.
