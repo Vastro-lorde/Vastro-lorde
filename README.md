@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Reader, highschool/secondary school website API and Darth 
 Data visualiser website.
 
-🤓📝 I am currently learning React JavaScript.
+🤓📝 I am currently learning React JavaScript and C# dotnet framework.
 
 You can reach me on 
 www.linkedin.com/in/seun-daniel-omatsola-429a69166
