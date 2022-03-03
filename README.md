@@ -24,9 +24,9 @@ Data visualiser website.
 🤓📝 I am currently learning React JavaScript and C# dotnet framework.
 
 You can reach me on: <br>
-<a href="www.linkedin.com/in/seun-daniel-omatsola-429a69166" target="_blank">LinkedIn</a> <br>
-<a href="https://medium.com/@omatsolaseund" target="_blank">Medium</a> <br>
-<a href="mailto:omatsolaseund@gmail.com" target="_blank">Gmail</a>
+<a href="www.linkedin.com/in/seun-daniel-omatsola-429a69166">LinkedIn</a> <br>
+<a href="https://medium.com/@omatsolaseund">Medium</a> <br>
+<a href="mailto:omatsolaseund@gmail.com">Gmail</a>
 
 
 🌐📲 omatsolaseund@gmail.com via Gmail.
