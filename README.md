@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h1>Seun Daniel Omatsola</h1>
 
 🤔🧐 I am currently working on an astrology based personality
-Reader, highschool/secondary school website API and Darth 
-Data visualiser website.
+Reader, highschool/secondary school website API and an Ecommerce website.
 
 🤓📝 I am currently learning React JavaScript and C# dotnet framework.
 
