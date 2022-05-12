@@ -24,7 +24,7 @@ Reader, highschool/secondary school website API and an Ecommerce website.
 
 ## 🛠️ Technologies
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/-C#-ea2845?style=flat-square&logo=CSharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=.Net&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
