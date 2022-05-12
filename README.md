@@ -15,14 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Seun Daniel Omatsola</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=F76604&width=550&lines=Seun+Daniel+Omatsola;C%23+Javascript+Developer;There+is+more+to+everything+than+meets+the+eyes.)](https://git.io/typing-svg)
 
 🤔🧐 I am currently working on an astrology based personality
 Reader, highschool/secondary school website API and an Ecommerce website.
 
 🤓📝 I am currently learning React JavaScript and C# dotnet framework.
 
-You can reach me on: <br>
+## 🛠️ Technologies
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/-C#-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://www.linkedin.com/in/seun-daniel-omatsola-429a69166">LinkedIn</a> <br>
 <a href="https://medium.com/@omatsolaseund">Medium</a> <br>
 <a href="mailto:omatsolaseund@gmail.com">Gmail</a>
@@ -31,3 +49,6 @@ You can reach me on: <br>
 🌐📲 omatsolaseund@gmail.com via Gmail.
 
 I am Pisces ♓.
+
+-----
+Credits: [Seun Daniel Omatsola](https://github.com/Vastro-lorde)
