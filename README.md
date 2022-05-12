@@ -49,7 +49,7 @@ Reader, highschool/secondary school website API and an Ecommerce website.
 
 🌐📲 omatsolaseund@gmail.com via Gmail.
 
-I am Pisces ♓.
+I am Pisces ♓ sun ☀️, Taurus moon 🌙 and Capricorn rising ↑.
 
 -----
 Credits: [Seun Daniel Omatsola](https://github.com/Vastro-lorde)
