@@ -25,7 +25,9 @@ Reader, highschool/secondary school website API and an Ecommerce website.
 ## 🛠️ Technologies
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=.Net&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -37,7 +39,6 @@ Reader, highschool/secondary school website API and an Ecommerce website.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
