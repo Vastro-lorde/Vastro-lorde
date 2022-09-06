@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🤔🧐 I am currently working on an astrology based personality
 Reader, highschool/secondary school website API and an Porfolio backend api.
 
-🤓📝 I am currently learning React C programming and shell scripting.
+🤓📝 I am currently learning C programming and shell scripting.
 
 ## 🛠️ Technologies
 <p>
