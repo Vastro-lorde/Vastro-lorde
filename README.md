@@ -24,7 +24,7 @@ Reader, highschool/secondary school website API and an Porfolio backend api.
 
 ## 🛠️ Technologies
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-CSharp-808080?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-808080?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=.Net&logoColor=white" />
