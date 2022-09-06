@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=F76604&width=550&lines=Seun+Daniel+Omatsola;C%23+Javascript+Developer;There+is+more+to+everything+than+meets+the+eyes.)](https://git.io/typing-svg)
 
-🤔🧐 I am currently working on a Todo app using reactjs, an astrology based personality
+🤔🧐 I am currently working on an astrology based personality
 Reader, highschool/secondary school website API and an Porfolio backend api.
 
-🤓📝 I am currently learning React TypeScript and C# dotnet framework.
+🤓📝 I am currently learning React C programming and shell scripting.
 
 ## 🛠️ Technologies
 <p>
