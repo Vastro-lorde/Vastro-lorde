@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=F76604&width=550&lines=Seun+Daniel+Omatsola;C%23+Javascript+Developer;There+is+more+to+everything+than+meets+the+eyes.)](https://git.io/typing-svg)
 
-🤔🧐 I am currently working on an astrology based personality
-Reader, highschool/secondary school website API and an Porfolio backend api.
+<!-- 🤔🧐 I am currently working on a fintech. -->
 
-🤓📝 I am currently learning C programming and shell scripting.
+🤓📝 I am currently learning Go programming and shell scripting.
 
 ## 🛠️ Technologies
 <p>
