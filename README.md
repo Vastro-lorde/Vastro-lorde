@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies
 <p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-808080?style=flat-square&logo=golang&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-808080?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />
