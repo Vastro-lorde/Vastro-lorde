@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- 🤔🧐 I am currently working on a fintech. -->
 
-🤓📝 I am currently learning Go programming and shell scripting.
+🤓📝 I am currently learning C++ programming and Azure DevOps.
 
 ## 🛠️ Technologies
 <p>
