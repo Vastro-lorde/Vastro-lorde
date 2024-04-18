@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img alt="Go" src="https://img.shields.io/badge/-Go-808080?style=flat-square&logo=golang&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-808080?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=.Net&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
