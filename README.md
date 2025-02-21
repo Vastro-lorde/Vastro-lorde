@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 I am Pisces ♓ sun ☀️, Taurus moon 🌙 and Capricorn rising ↑.
 
 -----
-Credits: [Seun Daniel Omatsola](https://github.com/Vastro-lorde)
+Credits: [Seun Daniel Omatsola](https://seun-daniel-omatsola.com/)
