@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-808080?style=flat-square&logo=golang&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-808080?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-ea2845?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-43853d?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-808080?style=flat-square&logo=golang&logoColor=white" />
   <img alt="Asp.Net Core" src="https://img.shields.io/badge/-Asp.Net-ea2845?style=flat-square&logo=.Net&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-808080?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://www.linkedin.com/in/seun-daniel-omatsola-429a69166">LinkedIn</a> <br>
+<a href="https://www.linkedin.com/in/seundanielomatsola/">LinkedIn</a> <br>
 <a href="https://medium.com/@omatsolaseund">Medium</a> <br>
 <a href="mailto:omatsolaseund@gmail.com">Gmail</a>
 
