@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <a href="mailto:seundanielomatsola@gmail.com">Gmail</a>
 
 
-🌐📲 omatsolaseund@gmail.com via Gmail.
+🌐📲 seundanieloomatsola@gmail.com via Gmail.
 
 I am Pisces ♓ sun ☀️, Taurus moon 🌙 and Capricorn rising ↑.
 
