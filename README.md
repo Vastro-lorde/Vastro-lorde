@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://www.linkedin.com/in/seundanielomatsola/">LinkedIn</a> <br>
 <a href="https://medium.com/@omatsolaseund">Medium</a> <br>
-<a href="mailto:omatsolaseund@gmail.com">Gmail</a>
+<a href="mailto:seundanielomatsola@gmail.com">Gmail</a>
 
 
 🌐📲 omatsolaseund@gmail.com via Gmail.
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 I am Pisces ♓ sun ☀️, Taurus moon 🌙 and Capricorn rising ↑.
 
 -----
-Credits: [Seun Daniel Omatsola](https://seun-daniel-omatsola.com/)
+Credits: [Seun Daniel Omatsola](https://seunomatsola.com/)
